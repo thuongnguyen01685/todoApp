@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/Images/sonar.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.thuongnguyen.todoApp"
     },
     "web": {
       "favicon": "./assets/Images/sonar.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fad5bc14-f435-46cf-90dc-72ae24fc4681"
+      }
     }
   }
 }
