@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "todoApp",
+    "slug": "todoApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Images/sonar.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Images/sonar.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#eee"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Images/sonar.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/Images/sonar.png"
+    }
+  }
+}
